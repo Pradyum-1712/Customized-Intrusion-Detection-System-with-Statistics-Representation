@@ -1,0 +1,7 @@
+custom-ids/
+│
+├── ids.py                # The main Python script for the IDS
+├── requirements.txt       # List of project dependencies
+├── README.md              # Project documentation
+├── LICENSE                # License file
+└── .gitignore             # Ignore unnecessary files
